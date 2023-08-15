@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liberty-1776
 - 👀 I’m interested in TransFormers, Deep-Learning, BlockChain etc.
-- 🌱 I’m currently learning Multi-Task Transformer, LLMs and other Deep Learning related frameworks.
+- 🌱 I’m currently learning LLMs and other Deep Learning related frameworks.
 - 📫 You can mail me at my emailID: hritikgl5@gmail.com
 
 <!---
