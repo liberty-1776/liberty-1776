@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liberty-1776
+- 👋 Hi, I’m Hritik Goyal. Final-Year Student at IIITG.
 - 👀 I’m interested in TransFormers, Deep-Learning, BlockChain etc.
 - 🌱 I’m currently learning LLMs and other Deep Learning related frameworks.
 - 📫 You can mail me at my emailID: hritikgl5@gmail.com
